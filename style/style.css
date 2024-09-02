@@ -300,11 +300,13 @@ section.ft-works div img {
 }
 section.ft-works div p {
 	margin: 2vw 1vw 2vw 1vw;
+	
 }
 section.ft-works div p span {
 	background: #142850;
 	color: white;
 	border-radius: 10px;
+	font-weight: bold;
 	padding: 1px 6px 1px 6px;
 	margin: 0 2vw 0 2vw;
 }
@@ -324,9 +326,10 @@ footer {
 footer ul {
 	display: flex;
 	justify-content: center;
+	padding: 2vw 1vw 2vw 1vw;
 }
 
 footer ul li {
-	margin: 10px 5px 10px 5px;
+	margin: 10px 10px 10px 10px;
 	font-size: 2rem;
 }
